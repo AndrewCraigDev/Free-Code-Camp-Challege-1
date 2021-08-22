@@ -1,0 +1,64 @@
+#main{
+  font-size: 19px;
+  font-family: Arial, Geneva, Helvetica, sans-serif;
+  background-color: #ECECEC;
+  font-weight: 
+}
+
+#title{
+  text-align: center;
+  font-size: 40px;
+  margin-top: 50px;
+
+}
+#TagLine{
+  text-align: center;
+  font-size: 17px;
+}
+#img-div{
+  
+}
+#image{
+max-width: 500px;
+}
+#img-caption{
+margin-top: 20px;
+text-align: center; 
+font-size: 18px; 
+margin-bottom: 50px
+}
+img{
+  margin-right: auto;
+  margin-left: auto; 
+  display: block;
+}
+#ListIntro{
+  margin-top: 20px;
+  text-align: center; 
+  font-size: 18px;
+  margin-bottom: 50px
+}
+#timeline{
+  margin-top: 20px;
+  margin-right: 200px;
+  margin-left: 200px; 
+  line-height: 1.5; 
+}
+li{
+  margin: 10px; 
+}
+
+#quote{
+  margin-top: 20px;
+  margin-right: 110;
+  margin-left: 110; 
+  line-height: 1.5
+}
+#endlink{
+   margin-top: 20px;
+  margin-right: 110;
+  margin-left: 110;
+  line-height: 1.5;
+  font-size: 18px;
+  text-align: center; 
+}
